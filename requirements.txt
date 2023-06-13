@@ -1,0 +1,11 @@
+PyDictionary
+PyMuPDF
+beautifulsoup4
+fonttools
+goslate
+numpy
+opencv-python
+pdf2docx
+pypiwin32
+python-docx
+pyttsx3
