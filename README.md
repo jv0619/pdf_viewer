@@ -9,8 +9,9 @@ The PDF Viewer project is a Python mini project aimed at providing a user-friend
 ## Team Members
 
 The PDF Viewer project was developed collaboratively by the following team members:
-1. Akhil Kumar Reddy
-2. Nithin Rodda
+1. Venkatesh Yarram (Team Lead)
+2. Akhil Kumar Reddy Kamireddy (Coder)
+3. Nithin Rodda (Coder)
 
 ## Features
 
